@@ -1,4 +1,4 @@
-**To-Do List **
+**To-Do List**
 
 Stay organized and conquer your tasks with this clean and user-friendly to-do list app!
 
